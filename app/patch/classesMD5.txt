@@ -1,0 +1,7 @@
+com.aitsuki.hotpatchdemo.Cat-3973d33b5e8933e26aafe212809be299
+com.aitsuki.hotpatchdemo.CirCleView-aad61225cbfd12e0e7cb988bf84fbf8c
+com.aitsuki.hotpatchdemo.MainActivity-91f39cafa50cf7a5ddebe035c0ac78fe
+com.aitsuki.hotpatchdemo.SquareView-8413667ae51de9ef39de0123532fa396
+com.aitsuki.hotpatch.AssetsUtil-a5adb1e7188f41a048ffde7aff4600db
+com.aitsuki.hotpatch.HotPatch-edf0374aff176927977e51e0b450cf90
+com.aitsuki.hotpatch.ReflectUtil-766888510e1bc79a866cf1d1e2b2fefe
